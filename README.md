@@ -144,6 +144,6 @@ urlpatterns = [
 # SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2025-04-12 185910.png>)
 # HOMEPAGE:
-![alt text](<Screenshot 2025-04-12 184345.png>)
+![Screenshot 2025-04-19 142439](https://github.com/user-attachments/assets/313d6309-84e9-41c8-90d1-64583f50dfad)
 # RESULT:
 The program for performing server side processing is completed successfully.
